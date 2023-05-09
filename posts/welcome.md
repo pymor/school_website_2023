@@ -5,4 +5,4 @@
 .. type: text
 -->
 
-The fifth pyMOR School will be held at TU Berlin in September 18-22, 2023.
+The fifth pyMOR School will be held in Berlin from September 18-22, 2023.
