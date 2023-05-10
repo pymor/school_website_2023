@@ -141,7 +141,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          else they won’t be highlighted when active.
 
 NAVIGATION_LINKS = {
-    DEFAULT_LANG: (('/about/', 'About'),),
+    DEFAULT_LANG: (('/', 'Home'), ('/about/', 'About')),
 }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
@@ -360,7 +360,7 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-LOGO_URL = '/images/pymor_logo_white.svg'
+LOGO_URL = '/images/pymor_logo.svg'
 
 # When linking posts to social media, Nikola provides Open Graph metadata
 # which is used to show a nice preview. This includes an image preview
