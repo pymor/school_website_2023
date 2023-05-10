@@ -57,7 +57,7 @@ are provided for getting started quickly.
 
 The pyMOR School is the fifth event for current and future pyMOR users and
 developers.
-It will take place at TU Berlin
+It will take place in Berlin
 from Monday noon (September 18th) to Friday noon (September 22nd).
 
 The School will consist of introductory lectures on the MOR methods available in
