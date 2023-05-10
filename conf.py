@@ -141,7 +141,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          else they won’t be highlighted when active.
 
 NAVIGATION_LINKS = {
-    DEFAULT_LANG: (('/about/', 'About'),),
+    DEFAULT_LANG: (('/', 'Home'), ('/about/', 'About')),
 }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
