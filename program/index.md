@@ -12,13 +12,13 @@ from Monday at 14:00 to Friday at 12:00 (September 18-22)
 in the computer room
 [VWS 128](https://moseskonto.tu-berlin.de/moses/verzeichnis/raeume/raum_info.html?raumgruppe=49#).
 
-The timetable and the content of the introductory topics
-will be adapted to match the participants' requirements,
-based on the information provided in the registration forms.
+The timetable is listed on
+[Indico](https://indico3.mpi-magdeburg.mpg.de/event/33/timetable/).
 
 # Materials
 
-The lectures and exercises will be made publicly available.
+The lectures and exercises are available in a
+[GitHub repository](https://github.com/pymor/2023_pymor_school).
 
 # Introduction to Python
 
